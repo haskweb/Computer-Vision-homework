@@ -5,7 +5,7 @@ Install Anaconda following the prompts.
 <h2>Step 3</h2>
 Start Anaconda navigator and create a new virtual environment called cv. Go to Environments and then Create.
 
-<img src="../lesson1_1.png">
+<img src="lesson1_1.png">
 
 <h2>Step 3</h2>
 Start Anaconda navigator and create a new virtual environment called cv. Go to Environments and then Create.
@@ -17,9 +17,9 @@ Install the 3 fundamental packages that we will be using throughout this course,
     <li>matplotlib</li>
 </ul>
 
-<img src="../lesson1_2.png"> <br>
-<img src="../lesson1_3.png"> <br>
-<img src="../lesson1_4.png"> <br>
+<img src="lesson1_2.png"> <br>
+<img src="lesson1_3.png"> <br>
+<img src="lesson1_4.png"> <br>
 
 <h2>Step 5</h2>
 Install Jupyter Notebook from the Navigator menu.
@@ -28,4 +28,4 @@ Install Spyder for easy scripting.
 <h2>Step 6</h2>
 Finish and run the provided jupyter notebook.
 
-<img src="../lesson1_5.png">
+<img src="lesson1_5.png">

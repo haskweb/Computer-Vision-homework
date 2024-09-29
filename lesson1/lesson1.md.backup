@@ -19,7 +19,7 @@ Install the 3 fundamental packages that we will be using throughout this course,
 
 <img src="../lesson1_2.png"> <br>
 <img src="../lesson1_3.png"> <br>
-<img src="../lesson1_4.png"> <br>
+<img src="lesson1_4.png"> <br>
 
 <h2>Step 5</h2>
 Install Jupyter Notebook from the Navigator menu.
@@ -28,3 +28,4 @@ Install Spyder for easy scripting.
 <h2>Step 6</h2>
 Finish and run the provided jupyter notebook.
 
+<img src="lesson1_5.png">
